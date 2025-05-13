@@ -1,0 +1,3 @@
+[submodule "HuggingFace/Jatayu"]
+	path = HuggingFace/Jatayu
+	url = https://huggingface.co/spaces/ItsJATAYU/Jatayu
